@@ -1,0 +1,231 @@
+# PUL-0001
+
+# Protocol for Universal Settlement (PUL)
+
+**Version:** 0.0.1 (Draft)
+
+**Status:** Draft
+
+**Authors:** PUL Community
+
+**Created:** June 2026
+
+---
+
+# Abstract
+
+The Protocol for Universal Settlement (PUL) is an open protocol for transferring and settling value across decentralized networks.
+
+Just as TCP/IP standardized how information moves across the Internet, PUL aims to standardize how value moves between people, organizations, governments, businesses, and software systems.
+
+PUL is not a cryptocurrency.
+
+PUL is not a bank.
+
+PUL is not a payment company.
+
+PUL is an open protocol.
+
+---
+
+# Motivation
+
+Today's payment ecosystem depends on proprietary infrastructures.
+
+Banks.
+
+Payment gateways.
+
+Card networks.
+
+Processors.
+
+Country-specific regulations.
+
+Closed APIs.
+
+Every payment system speaks a different language.
+
+The result is fragmentation.
+
+PUL proposes a universal language for value transfer.
+
+---
+
+# Vision
+
+Build an open protocol that enables any software in the world to exchange value as easily as computers exchange information over the Internet.
+
+---
+
+# Goals
+
+PUL must be:
+
+- Open
+- Public
+- Neutral
+- Secure
+- Interoperable
+- Decentralized
+- Auditable
+- Scalable
+- Extensible
+- Community-driven
+
+---
+
+# Non-Goals
+
+PUL is not intended to become:
+
+- A bank
+- A cryptocurrency
+- A fintech
+- A payment gateway
+- A central authority
+
+PUL only defines the protocol.
+
+---
+
+# Core Principles
+
+## Neutrality
+
+The protocol must not favor any country, currency, company, blockchain, or institution.
+
+---
+
+## Interoperability
+
+Independent implementations must communicate seamlessly.
+
+---
+
+## Decentralization
+
+No single entity shall be required for the protocol to operate.
+
+---
+
+## Security
+
+Every transaction must be cryptographically verifiable.
+
+---
+
+## Transparency
+
+The protocol specification must remain public and auditable.
+
+---
+
+## Extensibility
+
+Future versions should preserve backward compatibility whenever possible.
+
+---
+
+# Participants
+
+Examples include:
+
+- Individuals
+- Businesses
+- ERP systems
+- Mobile wallets
+- Governments
+- Universities
+- NGOs
+- Banks
+- Cooperatives
+- IoT devices
+
+Participation is open to anyone implementing the protocol.
+
+---
+
+# Protocol Scope
+
+PUL defines how value is transferred.
+
+It does not define:
+
+- Monetary policy
+- National currencies
+- Banking regulations
+- Tax rules
+
+These remain outside the protocol.
+
+---
+
+# Assets
+
+PUL is asset-neutral.
+
+The protocol may transport different forms of value, including:
+
+- National currencies
+- Digital currencies
+- Stable assets
+- Commodity-backed assets
+- Loyalty points
+- Carbon credits
+- Energy credits
+- Other digital assets
+
+The protocol transports value.
+
+It does not create value.
+
+---
+
+# High-Level Architecture
+
+```
+Application
+      │
+Wallet / ERP
+      │
+PUL Protocol
+      │
+PUL Network
+      │
+Destination
+```
+
+---
+
+# Future Specifications
+
+This document defines only the vision.
+
+Future documents will define:
+
+- PUL-0002 — Network Architecture
+- PUL-0003 — Digital Identity
+- PUL-0004 — Transaction Format
+- PUL-0005 — Consensus
+- PUL-0006 — QR Standard
+- PUL-0007 — API Specification
+- PUL-0008 — Security Model
+
+---
+
+# Mission
+
+Create an open protocol that enables universal value transfer in the same way TCP/IP enables universal data transfer.
+
+---
+
+# First Rule
+
+No single entity shall ever become indispensable to the operation of the PUL network.
+
+---
+
+# License
+
+This specification is published as an open community draft.
